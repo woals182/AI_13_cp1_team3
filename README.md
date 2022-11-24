@@ -34,5 +34,5 @@
 (https://youtu.be/G7dGv7ONPPA)
 
 ## Refactoring
-- 웹페이지 코드 및 가독성 개선중
+- 
 - 
